@@ -5,5 +5,4 @@
     <kbase name="point_rule" packages="rules.point">
         <ksession name="point_ksession"/>
     </kbase>
-
 </kmodule>
