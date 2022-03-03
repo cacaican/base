@@ -18,6 +18,7 @@ public class ThreadPoolDemo {
 }
 class A extends Thread{
     public static void main(String[] args) {
+        //获取当前项目可获取的线程数
         System.out.println(Runtime.getRuntime().availableProcessors());
 
     }
